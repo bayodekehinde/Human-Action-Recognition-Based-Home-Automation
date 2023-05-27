@@ -31,6 +31,8 @@ This project is a prototype that simulates a TV, a light, and a fan using two LE
 
 * Follow the provided circuit diagram to properly connect the actuators (LEDs and 5V motor) to the GPIO pins of the Raspberry Pi.
 
+![Circuit diagram for the implementation of Home Automation System](relative/path/to/image.png)
+
 * Ensure a camera is connected to the Raspberry Pi.
 
 * Run the appliance_control.py file to activate the home automation system.
