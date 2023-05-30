@@ -50,7 +50,7 @@ To use the Raspberry Pi in this or any other project:
 
 
 
-
+![Circuit Implemenataion of HAR system](https://github.com/bayodekehinde/Human-Action-Recognition-Based-Home-Automation/blob/main/IMG_0158.jpg)
 
 
 
